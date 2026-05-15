@@ -9,7 +9,7 @@ Our primary focus is evaluating how automated, data-led delivery systems outperf
 
 > **Important Update:** Full technical implementation details and our latest market analysis on automated engagement providers are currently documented in our official PR releases. 
 
-**Read the full documentation and methodology here:** [Link to Ritz Herald Article - UPDATE THIS WHEN LIVE](#)
+**Read the full documentation and methodology here:** [Link to Ritz Herald Article ](https://ritzherald.com/top-9-sites-to-buy-automatic-instagram-likes-2026/)
 
 For core platform features and growth infrastructure, visit the [Azexo Platform](https://azexo.com/).
 
